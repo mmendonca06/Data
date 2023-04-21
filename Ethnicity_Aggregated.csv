@@ -1,0 +1,661 @@
+﻿Borough,Ethnicity,Total_Residents
+Barking and Dagenham,All usual residents,218866
+Barnet,All usual residents,389401
+Bexley,All usual residents,246520
+Brent,All usual residents,339889
+Bromley,All usual residents,329936
+Camden,All usual residents,210165
+City of London,All usual residents,8584
+Croydon,All usual residents,390697
+Ealing,All usual residents,367183
+Enfield,All usual residents,329914
+Greenwich,All usual residents,289085
+Hackney,All usual residents,259124
+Hammersmith and Fulham,All usual residents,183179
+Haringey,All usual residents,264420
+Harrow,All usual residents,261249
+Havering,All usual residents,262055
+Hillingdon,All usual residents,305942
+Hounslow,All usual residents,288159
+Islington,All usual residents,216550
+Kensington and Chelsea,All usual residents,143321
+Kingston upon Thames,All usual residents,167981
+Lambeth,All usual residents,317713
+Lewisham,All usual residents,300453
+Merton,All usual residents,215220
+Newham,All usual residents,350985
+Redbridge,All usual residents,310353
+Richmond upon Thames,All usual residents,195301
+Southwark,All usual residents,307659
+Sutton,All usual residents,209662
+Tower Hamlets,All usual residents,310184
+Waltham Forest,All usual residents,278460
+Wandsworth,All usual residents,327409
+Westminster,All usual residents,204249
+Barking and Dagenham,White British,67558
+Barnet,White British,140792
+Bexley,White British,158871
+Brent,White British,51629
+Bromley,White British,219488
+Camden,White British,74343
+City of London,White British,3652
+Croydon,White British,146256
+Ealing,White British,89263
+Enfield,White British,103123
+Greenwich,White British,119678
+Hackney,White British,87919
+Hammersmith and Fulham,White British,70095
+Haringey,White British,84309
+Harrow,White British,53565
+Havering,White British,174252
+Hillingdon,White British,113355
+Hounslow,White British,81945
+Islington,White British,86101
+Kensington and Chelsea,White British,46875
+Kingston upon Thames,White British,90262
+Lambeth,White British,119410
+Lewisham,White British,111717
+Merton,White British,88662
+Newham,White British,51799
+Redbridge,White British,71874
+Richmond upon Thames,White British,123085
+Southwark,White British,109247
+Sutton,White British,120043
+Tower Hamlets,White British,71175
+Waltham Forest,White British,94769
+Wandsworth,White British,157030
+Westminster,White British,57201
+Barking and Dagenham,White Irish,1191
+Barnet,White Irish,7629
+Bexley,White Irish,2523
+Brent,White Irish,9302
+Bromley,White Irish,4962
+Camden,White Irish,5330
+City of London,White Irish,186
+Croydon,White Irish,4914
+Ealing,White Irish,8526
+Enfield,White Irish,5968
+Greenwich,White Irish,4250
+Hackney,White Irish,5579
+Hammersmith and Fulham,White Irish,4809
+Haringey,White Irish,5711
+Harrow,White Irish,5595
+Havering,White Irish,2903
+Hillingdon,White Irish,5592
+Hounslow,White Irish,3886
+Islington,White Irish,7077
+Kensington and Chelsea,White Irish,2811
+Kingston upon Thames,White Irish,2636
+Lambeth,White Irish,6825
+Lewisham,White Irish,5038
+Merton,White Irish,4332
+Newham,White Irish,2046
+Redbridge,White Irish,3102
+Richmond upon Thames,White Irish,4866
+Southwark,White Irish,6029
+Sutton,White Irish,3117
+Tower Hamlets,White Irish,3551
+Waltham Forest,White Irish,4236
+Wandsworth,White Irish,8053
+Westminster,White Irish,3720
+Barking and Dagenham,White Gypsy/Irish Traveller,189
+Barnet,White Gypsy/Irish Traveller,178
+Bexley,White Gypsy/Irish Traveller,619
+Brent,White Gypsy/Irish Traveller,236
+Bromley,White Gypsy/Irish Traveller,575
+Camden,White Gypsy/Irish Traveller,134
+City of London,White Gypsy/Irish Traveller,0
+Croydon,White Gypsy/Irish Traveller,213
+Ealing,White Gypsy/Irish Traveller,251
+Enfield,White Gypsy/Irish Traveller,372
+Greenwich,White Gypsy/Irish Traveller,386
+Hackney,White Gypsy/Irish Traveller,245
+Hammersmith and Fulham,White Gypsy/Irish Traveller,95
+Haringey,White Gypsy/Irish Traveller,228
+Harrow,White Gypsy/Irish Traveller,175
+Havering,White Gypsy/Irish Traveller,256
+Hillingdon,White Gypsy/Irish Traveller,480
+Hounslow,White Gypsy/Irish Traveller,299
+Islington,White Gypsy/Irish Traveller,107
+Kensington and Chelsea,White Gypsy/Irish Traveller,82
+Kingston upon Thames,White Gypsy/Irish Traveller,63
+Lambeth,White Gypsy/Irish Traveller,142
+Lewisham,White Gypsy/Irish Traveller,114
+Merton,White Gypsy/Irish Traveller,188
+Newham,White Gypsy/Irish Traveller,354
+Redbridge,White Gypsy/Irish Traveller,185
+Richmond upon Thames,White Gypsy/Irish Traveller,86
+Southwark,White Gypsy/Irish Traveller,153
+Sutton,White Gypsy/Irish Traveller,129
+Tower Hamlets,White Gypsy/Irish Traveller,113
+Waltham Forest,White Gypsy/Irish Traveller,198
+Wandsworth,White Gypsy/Irish Traveller,121
+Westminster,White Gypsy/Irish Traveller,48
+Barking and Dagenham,White Roma,854
+Barnet,White Roma,1557
+Bexley,White Roma,312
+Brent,White Roma,2508
+Bromley,White Roma,553
+Camden,White Roma,988
+City of London,White Roma,62
+Croydon,White Roma,1114
+Ealing,White Roma,1433
+Enfield,White Roma,1121
+Greenwich,White Roma,894
+Hackney,White Roma,864
+Hammersmith and Fulham,White Roma,1480
+Haringey,White Roma,2016
+Harrow,White Roma,1418
+Havering,White Roma,432
+Hillingdon,White Roma,692
+Hounslow,White Roma,980
+Islington,White Roma,963
+Kensington and Chelsea,White Roma,1042
+Kingston upon Thames,White Roma,436
+Lambeth,White Roma,1563
+Lewisham,White Roma,1035
+Merton,White Roma,826
+Newham,White Roma,2344
+Redbridge,White Roma,1087
+Richmond upon Thames,White Roma,401
+Southwark,White Roma,1592
+Sutton,White Roma,334
+Tower Hamlets,White Roma,2218
+Waltham Forest,White Roma,1403
+Wandsworth,White Roma,1720
+Westminster,White Roma,1519
+Barking and Dagenham,White Other,28514
+Barnet,White Other,74620
+Bexley,White Other,14863
+Brent,White Other,54017
+Bromley,White Other,26704
+Camden,White Other,44295
+City of London,White Other,2065
+Croydon,White Other,36436
+Ealing,White Other,59008
+Enfield,White Other,61268
+Greenwich,White Other,35847
+Hackney,White Other,43107
+Hammersmith and Fulham,White Other,39164
+Haringey,White Other,58358
+Harrow,White Other,34455
+Havering,White Other,19521
+Hillingdon,White Other,27230
+Hounslow,White Other,39965
+Islington,White Other,40507
+Kensington and Chelsea,White Other,40574
+Kingston upon Thames,White Other,21395
+Lambeth,White Other,46881
+Lewisham,White Other,36808
+Merton,White Other,35602
+Newham,White Other,51404
+Redbridge,White Other,31764
+Richmond upon Thames,White Other,28644
+Southwark,White Other,41208
+Sutton,White Other,19569
+Tower Hamlets,White Other,45193
+Waltham Forest,White Other,46449
+Wandsworth,White Other,55122
+Westminster,White Other,50264
+Barking and Dagenham,Mixed White and Asian,1549
+Barnet,Mixed White and Asian,6055
+Bexley,Mixed White and Asian,2178
+Brent,Mixed White and Asian,3627
+Bromley,Mixed White and Asian,4729
+Camden,Mixed White and Asian,4251
+City of London,Mixed White and Asian,173
+Croydon,Mixed White and Asian,5742
+Ealing,Mixed White and Asian,5478
+Enfield,Mixed White and Asian,3820
+Greenwich,Mixed White and Asian,3458
+Hackney,Mixed White and Asian,3692
+Hammersmith and Fulham,Mixed White and Asian,3123
+Haringey,Mixed White and Asian,3946
+Harrow,Mixed White and Asian,3151
+Havering,Mixed White and Asian,2342
+Hillingdon,Mixed White and Asian,4204
+Hounslow,Mixed White and Asian,4112
+Islington,Mixed White and Asian,3748
+Kensington and Chelsea,Mixed White and Asian,3052
+Kingston upon Thames,Mixed White and Asian,3550
+Lambeth,Mixed White and Asian,4525
+Lewisham,Mixed White and Asian,4340
+Merton,Mixed White and Asian,3754
+Newham,Mixed White and Asian,3324
+Redbridge,Mixed White and Asian,3565
+Richmond upon Thames,Mixed White and Asian,4233
+Southwark,Mixed White and Asian,4647
+Sutton,Mixed White and Asian,3069
+Tower Hamlets,Mixed White and Asian,4361
+Waltham Forest,Mixed White and Asian,3900
+Wandsworth,Mixed White and Asian,5790
+Westminster,Mixed White and Asian,3732
+Barking and Dagenham,Mixed White and Black African,2376
+Barnet,Mixed White and Black African,3766
+Bexley,Mixed White and Black African,1734
+Brent,Mixed White and Black African,3186
+Bromley,Mixed White and Black African,2436
+Camden,Mixed White and Black African,2071
+City of London,Mixed White and Black African,50
+Croydon,Mixed White and Black African,4463
+Ealing,Mixed White and Black African,2435
+Enfield,Mixed White and Black African,2999
+Greenwich,Mixed White and Black African,3287
+Hackney,Mixed White and Black African,2732
+Hammersmith and Fulham,Mixed White and Black African,1788
+Haringey,Mixed White and Black African,2551
+Harrow,Mixed White and Black African,1080
+Havering,Mixed White and Black African,1526
+Hillingdon,Mixed White and Black African,1900
+Hounslow,Mixed White and Black African,2153
+Islington,Mixed White and Black African,2256
+Kensington and Chelsea,Mixed White and Black African,1284
+Kingston upon Thames,Mixed White and Black African,1096
+Lambeth,Mixed White and Black African,4028
+Lewisham,Mixed White and Black African,3775
+Merton,Mixed White and Black African,1716
+Newham,Mixed White and Black African,3326
+Redbridge,Mixed White and Black African,1714
+Richmond upon Thames,Mixed White and Black African,1196
+Southwark,Mixed White and Black African,3587
+Sutton,Mixed White and Black African,1282
+Tower Hamlets,Mixed White and Black African,2218
+Waltham Forest,Mixed White and Black African,2782
+Wandsworth,Mixed White and Black African,2510
+Westminster,Mixed White and Black African,2103
+Barking and Dagenham,Mixed White and Black Caribbean,2984
+Barnet,Mixed White and Black Caribbean,3495
+Bexley,Mixed White and Black Caribbean,2493
+Brent,Mixed White and Black Caribbean,3787
+Bromley,Mixed White and Black Caribbean,5506
+Camden,Mixed White and Black Caribbean,2562
+City of London,Mixed White and Black Caribbean,56
+Croydon,Mixed White and Black Caribbean,10352
+Ealing,Mixed White and Black Caribbean,4595
+Enfield,Mixed White and Black Caribbean,5160
+Greenwich,Mixed White and Black Caribbean,5137
+Hackney,Mixed White and Black Caribbean,4756
+Hammersmith and Fulham,Mixed White and Black Caribbean,3156
+Haringey,Mixed White and Black Caribbean,5345
+Harrow,Mixed White and Black Caribbean,2176
+Havering,Mixed White and Black Caribbean,3208
+Hillingdon,Mixed White and Black Caribbean,3144
+Hounslow,Mixed White and Black Caribbean,2717
+Islington,Mixed White and Black Caribbean,4166
+Kensington and Chelsea,Mixed White and Black Caribbean,1713
+Kingston upon Thames,Mixed White and Black Caribbean,1552
+Lambeth,Mixed White and Black Caribbean,8345
+Lewisham,Mixed White and Black Caribbean,8719
+Merton,Mixed White and Black Caribbean,3018
+Newham,Mixed White and Black Caribbean,4243
+Redbridge,Mixed White and Black Caribbean,3145
+Richmond upon Thames,Mixed White and Black Caribbean,1657
+Southwark,Mixed White and Black Caribbean,6409
+Sutton,Mixed White and Black Caribbean,2766
+Tower Hamlets,Mixed White and Black Caribbean,3588
+Waltham Forest,Mixed White and Black Caribbean,5161
+Wandsworth,Mixed White and Black Caribbean,5339
+Westminster,Mixed White and Black Caribbean,2067
+Barking and Dagenham,Mixed Other,2418
+Barnet,Mixed Other,7612
+Bexley,Mixed Other,2354
+Brent,Mixed Other,6701
+Bromley,Mixed Other,5059
+Camden,Mixed Other,5084
+City of London,Mixed Other,188
+Croydon,Mixed Other,9186
+Ealing,Mixed Other,6657
+Enfield,Mixed Other,7584
+Greenwich,Mixed Other,5378
+Hackney,Mixed Other,6332
+Hammersmith and Fulham,Mixed Other,4265
+Haringey,Mixed Other,6735
+Harrow,Mixed Other,3394
+Havering,Mixed Other,2634
+Hillingdon,Mixed Other,4148
+Hounslow,Mixed Other,4511
+Islington,Mixed Other,6060
+Kensington and Chelsea,Mixed Other,3468
+Kingston upon Thames,Mixed Other,2804
+Lambeth,Mixed Other,8725
+Lewisham,Mixed Other,7384
+Merton,Mixed Other,4290
+Newham,Mixed Other,5530
+Redbridge,Mixed Other,4301
+Richmond upon Thames,Mixed Other,3570
+Southwark,Mixed Other,7528
+Sutton,Mixed Other,3030
+Tower Hamlets,Mixed Other,5155
+Waltham Forest,Mixed Other,6188
+Wandsworth,Mixed Other,6999
+Westminster,Mixed Other,5458
+Barking and Dagenham,Asian Bangladeshi,22382
+Barnet,Asian Bangladeshi,2887
+Bexley,Asian Bangladeshi,1777
+Brent,Asian Bangladeshi,2166
+Bromley,Asian Bangladeshi,1747
+Camden,Asian Bangladeshi,14371
+City of London,Asian Bangladeshi,283
+Croydon,Asian Bangladeshi,3549
+Ealing,Asian Bangladeshi,3677
+Enfield,Asian Bangladeshi,8132
+Greenwich,Asian Bangladeshi,2389
+Hackney,Asian Bangladeshi,6552
+Hammersmith and Fulham,Asian Bangladeshi,1276
+Haringey,Asian Bangladeshi,4847
+Harrow,Asian Bangladeshi,1824
+Havering,Asian Bangladeshi,4779
+Hillingdon,Asian Bangladeshi,4055
+Hounslow,Asian Bangladeshi,2698
+Islington,Asian Bangladeshi,5967
+Kensington and Chelsea,Asian Bangladeshi,1483
+Kingston upon Thames,Asian Bangladeshi,939
+Lambeth,Asian Bangladeshi,2505
+Lewisham,Asian Bangladeshi,1830
+Merton,Asian Bangladeshi,2478
+Newham,Asian Bangladeshi,55699
+Redbridge,Asian Bangladeshi,31893
+Richmond upon Thames,Asian Bangladeshi,915
+Southwark,Asian Bangladeshi,5548
+Sutton,Asian Bangladeshi,1783
+Tower Hamlets,Asian Bangladeshi,107335
+Waltham Forest,Asian Bangladeshi,5153
+Wandsworth,Asian Bangladeshi,1642
+Westminster,Asian Bangladeshi,7520
+Barking and Dagenham,Asian Chinese,1378
+Barnet,Asian Chinese,9395
+Bexley,Asian Chinese,4002
+Brent,Asian Chinese,3397
+Bromley,Asian Chinese,5088
+Camden,Asian Chinese,6720
+City of London,Asian Chinese,544
+Croydon,Asian Chinese,3914
+Ealing,Asian Chinese,4540
+Enfield,Asian Chinese,2679
+Greenwich,Asian Chinese,7130
+Hackney,Asian Chinese,3452
+Hammersmith and Fulham,Asian Chinese,4242
+Haringey,Asian Chinese,3861
+Harrow,Asian Chinese,2781
+Havering,Asian Chinese,2003
+Hillingdon,Asian Chinese,3191
+Hounslow,Asian Chinese,2678
+Islington,Asian Chinese,5128
+Kensington and Chelsea,Asian Chinese,3829
+Kingston upon Thames,Asian Chinese,4118
+Lambeth,Asian Chinese,5022
+Lewisham,Asian Chinese,6301
+Merton,Asian Chinese,3612
+Newham,Asian Chinese,6218
+Redbridge,Asian Chinese,2923
+Richmond upon Thames,Asian Chinese,2789
+Southwark,Asian Chinese,8390
+Sutton,Asian Chinese,3983
+Tower Hamlets,Asian Chinese,10295
+Waltham Forest,Asian Chinese,2629
+Wandsworth,Asian Chinese,4657
+Westminster,Asian Chinese,6601
+Barking and Dagenham,Asian Indian,11482
+Barnet,Asian Indian,30397
+Bexley,Asian Indian,10909
+Brent,Asian Indian,66167
+Bromley,Asian Indian,12311
+Camden,Asian Indian,6933
+City of London,Asian Indian,322
+Croydon,Asian Indian,29562
+Ealing,Asian Indian,54822
+Enfield,Asian Indian,11881
+Greenwich,Asian Indian,10132
+Hackney,Asian Indian,8815
+Hammersmith and Fulham,Asian Indian,4091
+Haringey,Asian Indian,5851
+Harrow,Asian Indian,74741
+Havering,Asian Indian,11288
+Hillingdon,Asian Indian,57367
+Hounslow,Asian Indian,60829
+Islington,Asian Indian,4042
+Kensington and Chelsea,Asian Indian,3215
+Kingston upon Thames,Asian Indian,7729
+Lambeth,Asian Indian,6060
+Lewisham,Asian Indian,5044
+Merton,Asian Indian,9637
+Newham,Asian Indian,38622
+Redbridge,Asian Indian,51198
+Richmond upon Thames,Asian Indian,7248
+Southwark,Asian Indian,6136
+Sutton,Asian Indian,12611
+Tower Hamlets,Asian Indian,10109
+Waltham Forest,Asian Indian,9111
+Wandsworth,Asian Indian,9593
+Westminster,Asian Indian,7972
+Barking and Dagenham,Asian Pakistani,15789
+Barnet,Asian Pakistani,6708
+Bexley,Asian Pakistani,1399
+Brent,Asian Pakistani,15199
+Bromley,Asian Pakistani,1780
+Camden,Asian Pakistani,1603
+City of London,Asian Pakistani,32
+Croydon,Asian Pakistani,15346
+Ealing,Asian Pakistani,16715
+Enfield,Asian Pakistani,3650
+Greenwich,Asian Pakistani,3555
+Hackney,Asian Pakistani,2465
+Hammersmith and Fulham,Asian Pakistani,2001
+Haringey,Asian Pakistani,2156
+Harrow,Asian Pakistani,10278
+Havering,Asian Pakistani,5678
+Hillingdon,Asian Pakistani,14233
+Hounslow,Asian Pakistani,17443
+Islington,Asian Pakistani,996
+Kensington and Chelsea,Asian Pakistani,1276
+Kingston upon Thames,Asian Pakistani,4391
+Lambeth,Asian Pakistani,3865
+Lewisham,Asian Pakistani,2345
+Merton,Asian Pakistani,9652
+Newham,Asian Pakistani,31217
+Redbridge,Asian Pakistani,43992
+Richmond upon Thames,Asian Pakistani,1766
+Southwark,Asian Pakistani,2012
+Sutton,Asian Pakistani,6191
+Tower Hamlets,Asian Pakistani,3338
+Waltham Forest,Asian Pakistani,28745
+Wandsworth,Asian Pakistani,12262
+Westminster,Asian Pakistani,2476
+Barking and Dagenham,Asian Other,5514
+Barnet,Asian Other,25591
+Bexley,Asian Other,6354
+Brent,Asian Other,24570
+Bromley,Asian Other,6381
+Camden,Asian Other,8389
+City of London,Asian Other,259
+Croydon,Asian Other,16118
+Ealing,Asian Other,31523
+Enfield,Asian Other,11607
+Greenwich,Asian Other,14833
+Hackney,Asian Other,5588
+Hammersmith and Fulham,Asian Other,7665
+Haringey,Asian Other,6419
+Harrow,Asian Other,28558
+Havering,Asian Other,4400
+Hillingdon,Asian Other,23136
+Hounslow,Asian Other,22191
+Islington,Asian Other,5396
+Kensington and Chelsea,Asian Other,7212
+Kingston upon Thames,Asian Other,12769
+Lambeth,Asian Other,5623
+Lewisham,Asian Other,11401
+Merton,Asian Other,14655
+Newham,Asian Other,16429
+Redbridge,Asian Other,16835
+Richmond upon Thames,Asian Other,4803
+Southwark,Asian Other,8437
+Sutton,Asian Other,12212
+Tower Hamlets,Asian Other,6759
+Waltham Forest,Asian Other,9878
+Wandsworth,Asian Other,10143
+Westminster,Asian Other,9661
+Barking and Dagenham,Black African,35093
+Barnet,Black African,22651
+Bexley,Black African,23241
+Brent,Black African,31088
+Bromley,Black African,13208
+Camden,Black African,14206
+City of London,Black African,150
+Croydon,Black African,40228
+Ealing,Black African,22590
+Enfield,Black African,36462
+Greenwich,Black African,44196
+Hackney,Black African,29480
+Hammersmith and Fulham,Black African,13257
+Haringey,Black African,24865
+Harrow,Black African,10595
+Havering,Black African,14136
+Hillingdon,Black African,15827
+Hounslow,Black African,14891
+Islington,Black African,18064
+Kensington and Chelsea,Black African,6944
+Kingston upon Thames,Black African,3093
+Lambeth,Black African,37360
+Lewisham,Black African,37844
+Merton,Black African,12217
+Newham,Black African,40885
+Redbridge,Black African,14609
+Richmond upon Thames,Black African,2265
+Southwark,Black African,48325
+Sutton,Black African,7436
+Tower Hamlets,Black African,15383
+Waltham Forest,Black African,18764
+Wandsworth,Black African,17320
+Westminster,Black African,10456
+Barking and Dagenham,Black Caribbean,5840
+Barnet,Black Caribbean,4946
+Bexley,Black Caribbean,3236
+Brent,Black Caribbean,21266
+Bromley,Black Caribbean,8142
+Camden,Black Caribbean,2686
+City of London,Black Caribbean,54
+Croydon,Black Caribbean,36094
+Ealing,Black Caribbean,12893
+Enfield,Black Caribbean,16996
+Greenwich,Black Caribbean,8722
+Hackney,Black Caribbean,17896
+Hammersmith and Fulham,Black Caribbean,6653
+Haringey,Black Caribbean,16339
+Harrow,Black Caribbean,6533
+Havering,Black Caribbean,4816
+Hillingdon,Black Caribbean,5745
+Hounslow,Black Caribbean,3574
+Islington,Black Caribbean,7359
+Kensington and Chelsea,Black Caribbean,3231
+Kingston upon Thames,Black Caribbean,1083
+Lambeth,Black Caribbean,28996
+Lewisham,Black Caribbean,31889
+Merton,Black Caribbean,7636
+Newham,Black Caribbean,13547
+Redbridge,Black Caribbean,8482
+Richmond upon Thames,Black Caribbean,950
+Southwark,Black Caribbean,18155
+Sutton,Black Caribbean,3447
+Tower Hamlets,Black Caribbean,4914
+Waltham Forest,Black Caribbean,17579
+Wandsworth,Black Caribbean,11347
+Westminster,Black Caribbean,4305
+Barking and Dagenham,Black Other,5867
+Barnet,Black Other,3026
+Bexley,Black Other,3576
+Brent,Black Other,7178
+Bromley,Black Other,3788
+Camden,Black Other,1992
+City of London,Black Other,26
+Croydon,Black Other,12102
+Ealing,Black Other,4018
+Enfield,Black Other,7033
+Greenwich,Black Other,7691
+Hackney,Black Other,7240
+Hammersmith and Fulham,Black Other,2615
+Haringey,Black Other,5300
+Harrow,Black Other,2067
+Havering,Black Other,2596
+Hillingdon,Black Other,2378
+Hounslow,Black Other,2341
+Islington,Black Other,3283
+Kensington and Chelsea,Black Other,1103
+Kingston upon Thames,Black Other,537
+Lambeth,Black Other,9789
+Lewisham,Black Other,10730
+Merton,Black Other,3043
+Newham,Black Other,6843
+Redbridge,Black Other,3062
+Richmond upon Thames,Black Other,487
+Southwark,Black Other,10817
+Sutton,Black Other,1587
+Tower Hamlets,Black Other,2390
+Waltham Forest,Black Other,5293
+Wandsworth,Black Other,4339
+Westminster,Black Other,1703
+Barking and Dagenham,Other Arab,1493
+Barnet,Other Arab,7374
+Bexley,Other Arab,534
+Brent,Other Arab,17921
+Bromley,Other Arab,1207
+Camden,Other Arab,4412
+City of London,Other Arab,113
+Croydon,Other Arab,2272
+Ealing,Other Arab,16098
+Enfield,Other Arab,2534
+Greenwich,Other Arab,1455
+Hackney,Other Arab,2343
+Hammersmith and Fulham,Other Arab,5523
+Haringey,Other Arab,2545
+Harrow,Other Arab,6238
+Havering,Other Arab,804
+Hillingdon,Other Arab,4463
+Hounslow,Other Arab,5476
+Islington,Other Arab,2999
+Kensington and Chelsea,Other Arab,6358
+Kingston upon Thames,Other Arab,3569
+Lambeth,Other Arab,2635
+Lewisham,Other Arab,1668
+Merton,Other Arab,1919
+Newham,Other Arab,3541
+Redbridge,Other Arab,2260
+Richmond upon Thames,Other Arab,1714
+Southwark,Other Arab,3139
+Sutton,Other Arab,1393
+Tower Hamlets,Other Arab,3588
+Waltham Forest,Other Arab,2867
+Wandsworth,Other Arab,3847
+Westminster,Other Arab,15432
+Barking and Dagenham,Other Any other,6395
+Barnet,Other Any other,30722
+Bexley,Other Any other,5545
+Brent,Other Any other,15944
+Bromley,Other Any other,6272
+Camden,Other Any other,9795
+City of London,Other Any other,369
+Croydon,Other Any other,12836
+Ealing,Other Any other,22661
+Enfield,Other Any other,37525
+Greenwich,Other Any other,10667
+Hackney,Other Any other,20067
+Hammersmith and Fulham,Other Any other,7881
+Haringey,Other Any other,23038
+Harrow,Other Any other,12625
+Havering,Other Any other,4481
+Hillingdon,Other Any other,14802
+Hounslow,Other Any other,15470
+Islington,Other Any other,12331
+Kensington and Chelsea,Other Any other,7769
+Kingston upon Thames,Other Any other,5959
+Lambeth,Other Any other,15414
+Lewisham,Other Any other,12471
+Merton,Other Any other,7983
+Newham,Other Any other,13614
+Redbridge,Other Any other,14362
+Richmond upon Thames,Other Any other,4626
+Southwark,Other Any other,16300
+Sutton,Other Any other,5680
+Tower Hamlets,Other Any other,8501
+Waltham Forest,Other Any other,13355
+Wandsworth,Other Any other,9575
+Westminster,Other Any other,12011
