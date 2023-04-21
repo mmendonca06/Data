@@ -1,0 +1,193 @@
+MajorText,LookUp_BoroughName,Total_2021,Total_2011
+Burglary,Barking and Dagenham,1191,2365
+Burglary,Barnet,2390,4924
+Burglary,Bexley,757,1496
+Burglary,Brent,1836,3778
+Burglary,Bromley,1509,3175
+Burglary,Camden,1809,3431
+Burglary,Croydon,2041,4652
+Burglary,Ealing,1875,3867
+Burglary,Enfield,2136,3717
+Burglary,Greenwich,1661,2559
+Burglary,Hackney,2510,2326
+Burglary,Hammersmith and Fulham,1427,2529
+Burglary,Haringey,2250,3619
+Burglary,Harrow,1093,2601
+Burglary,Havering,1068,2823
+Burglary,Hillingdon,1341,3722
+Burglary,Hounslow,1467,2733
+Burglary,Islington,1818,2820
+Burglary,Kensington and Chelsea,1380,1739
+Burglary,Kingston upon Thames,733,1337
+Burglary,Lambeth,2214,3809
+Burglary,Lewisham,2122,3248
+Burglary,Merton,935,2411
+Burglary,Newham,1694,3247
+Burglary,Redbridge,1501,3791
+Burglary,Richmond upon Thames,1024,2092
+Burglary,Southwark,2421,3412
+Burglary,Sutton,908,1628
+Burglary,Tower Hamlets,2505,2750
+Burglary,Waltham Forest,1312,3364
+Burglary,Wandsworth,2319,3093
+Burglary,Westminster,2286,3326
+Drug Offences,Barking and Dagenham,1622,996
+Drug Offences,Barnet,1117,1262
+Drug Offences,Bexley,925,959
+Drug Offences,Brent,2007,4628
+Drug Offences,Bromley,1149,1093
+Drug Offences,Camden,1393,2650
+Drug Offences,Croydon,2317,2372
+Drug Offences,Ealing,1684,2286
+Drug Offences,Enfield,1199,1555
+Drug Offences,Greenwich,1755,1396
+Drug Offences,Hackney,1629,2484
+Drug Offences,Hammersmith and Fulham,1090,1579
+Drug Offences,Haringey,1180,1620
+Drug Offences,Harrow,959,680
+Drug Offences,Havering,976,1068
+Drug Offences,Hillingdon,1531,1514
+Drug Offences,Hounslow,1342,1782
+Drug Offences,Islington,1199,1788
+Drug Offences,Kensington and Chelsea,1120,1670
+Drug Offences,Kingston upon Thames,986,680
+Drug Offences,Lambeth,2318,3118
+Drug Offences,Lewisham,1533,2227
+Drug Offences,Merton,658,998
+Drug Offences,Newham,2300,2328
+Drug Offences,Redbridge,1365,2417
+Drug Offences,Richmond upon Thames,409,593
+Drug Offences,Southwark,2308,3539
+Drug Offences,Sutton,615,572
+Drug Offences,Tower Hamlets,2659,3496
+Drug Offences,Waltham Forest,1497,1339
+Drug Offences,Wandsworth,1113,1089
+Drug Offences,Westminster,2982,6785
+Robbery,Barking and Dagenham,573,1054
+Robbery,Barnet,616,1170
+Robbery,Bexley,187,362
+Robbery,Brent,749,2224
+Robbery,Bromley,381,738
+Robbery,Camden,1069,1505
+Robbery,Croydon,829,1827
+Robbery,Ealing,638,1496
+Robbery,Enfield,897,1182
+Robbery,Greenwich,555,879
+Robbery,Hackney,1388,1172
+Robbery,Hammersmith and Fulham,436,816
+Robbery,Haringey,1218,1469
+Robbery,Harrow,320,648
+Robbery,Havering,344,477
+Robbery,Hillingdon,412,920
+Robbery,Hounslow,385,684
+Robbery,Islington,1000,1199
+Robbery,Kensington and Chelsea,474,619
+Robbery,Kingston upon Thames,158,244
+Robbery,Lambeth,1231,3113
+Robbery,Lewisham,671,1715
+Robbery,Merton,319,650
+Robbery,Newham,1165,2405
+Robbery,Redbridge,634,1183
+Robbery,Richmond upon Thames,196,206
+Robbery,Southwark,1133,2448
+Robbery,Sutton,230,307
+Robbery,Tower Hamlets,1030,1462
+Robbery,Waltham Forest,734,1773
+Robbery,Wandsworth,604,1309
+Robbery,Westminster,2229,2219
+Theft,Barking and Dagenham,3226,3833
+Theft,Barnet,5008,6044
+Theft,Bexley,2301,2646
+Theft,Brent,5230,5539
+Theft,Bromley,4698,5629
+Theft,Camden,9699,15795
+Theft,Croydon,5346,7455
+Theft,Ealing,4913,7826
+Theft,Enfield,4684,4339
+Theft,Greenwich,4672,5511
+Theft,Hackney,8755,9836
+Theft,Hammersmith and Fulham,5769,7895
+Theft,Haringey,5870,5745
+Theft,Harrow,2720,2745
+Theft,Havering,3298,4500
+Theft,Hillingdon,4080,4648
+Theft,Hounslow,4406,6100
+Theft,Islington,7365,10350
+Theft,Kensington and Chelsea,5678,9324
+Theft,Kingston upon Thames,2792,3931
+Theft,Lambeth,7406,10839
+Theft,Lewisham,4843,6203
+Theft,Merton,2515,3452
+Theft,Newham,8681,7264
+Theft,Redbridge,4832,5360
+Theft,Richmond upon Thames,2466,3319
+Theft,Southwark,9100,10260
+Theft,Sutton,2117,3185
+Theft,Tower Hamlets,7465,8505
+Theft,Waltham Forest,4547,5350
+Theft,Wandsworth,5839,6464
+Theft,Westminster,21579,36256
+Vehicle Offences,Barking and Dagenham,2388,2911
+Vehicle Offences,Barnet,4949,4647
+Vehicle Offences,Bexley,2037,1625
+Vehicle Offences,Brent,3625,3400
+Vehicle Offences,Bromley,3542,3052
+Vehicle Offences,Camden,2807,3320
+Vehicle Offences,Croydon,4168,3943
+Vehicle Offences,Ealing,4497,4916
+Vehicle Offences,Enfield,5720,4286
+Vehicle Offences,Greenwich,3100,2936
+Vehicle Offences,Hackney,3191,2991
+Vehicle Offences,Hammersmith and Fulham,2562,3431
+Vehicle Offences,Haringey,5135,4293
+Vehicle Offences,Harrow,2534,1871
+Vehicle Offences,Havering,2305,2535
+Vehicle Offences,Hillingdon,3589,3764
+Vehicle Offences,Hounslow,3132,3380
+Vehicle Offences,Islington,2313,2752
+Vehicle Offences,Kensington and Chelsea,2351,2091
+Vehicle Offences,Kingston upon Thames,1041,833
+Vehicle Offences,Lambeth,2729,3623
+Vehicle Offences,Lewisham,3568,3193
+Vehicle Offences,Merton,1545,1920
+Vehicle Offences,Newham,3961,5307
+Vehicle Offences,Redbridge,3875,4629
+Vehicle Offences,Richmond upon Thames,1742,1669
+Vehicle Offences,Southwark,2865,3461
+Vehicle Offences,Sutton,1946,1707
+Vehicle Offences,Tower Hamlets,3507,3019
+Vehicle Offences,Waltham Forest,3411,4753
+Vehicle Offences,Wandsworth,3190,3749
+Vehicle Offences,Westminster,3497,3134
+Violence Against the Person,Barking and Dagenham,6865,3647
+Violence Against the Person,Barnet,7873,3609
+Violence Against the Person,Bexley,5354,2441
+Violence Against the Person,Brent,9082,5834
+Violence Against the Person,Bromley,6515,3890
+Violence Against the Person,Camden,6432,4581
+Violence Against the Person,Croydon,11306,5998
+Violence Against the Person,Ealing,9589,6034
+Violence Against the Person,Enfield,9042,3717
+Violence Against the Person,Greenwich,9108,4467
+Violence Against the Person,Hackney,8170,4606
+Violence Against the Person,Hammersmith and Fulham,5414,3416
+Violence Against the Person,Haringey,8265,4214
+Violence Against the Person,Harrow,5047,2550
+Violence Against the Person,Havering,5568,2826
+Violence Against the Person,Hillingdon,7714,4698
+Violence Against the Person,Hounslow,8076,4559
+Violence Against the Person,Islington,6638,4017
+Violence Against the Person,Kensington and Chelsea,4268,2384
+Violence Against the Person,Kingston upon Thames,3592,2009
+Violence Against the Person,Lambeth,9625,6128
+Violence Against the Person,Lewisham,8331,5400
+Violence Against the Person,Merton,4183,2137
+Violence Against the Person,Newham,9976,5501
+Violence Against the Person,Redbridge,7545,3045
+Violence Against the Person,Richmond upon Thames,2991,1593
+Violence Against the Person,Southwark,8418,5771
+Violence Against the Person,Sutton,4418,2099
+Violence Against the Person,Tower Hamlets,9642,4874
+Violence Against the Person,Waltham Forest,6752,4472
+Violence Against the Person,Wandsworth,7524,3547
+Violence Against the Person,Westminster,10326,7116
